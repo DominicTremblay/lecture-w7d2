@@ -38,3 +38,8 @@ end
 - Create a model for album
 - Create the relationships
 - Require the model
+
+- Create tracks table
+- Create a model
+- Creqte relationship
+- require the model
