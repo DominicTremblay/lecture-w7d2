@@ -44,6 +44,12 @@ Benefits:
 
 - gems are installed in a common folder of the ruby version you are using
 - add gems to your gemfile
+
+  - activerecord
+  - pg
+  - faker
+  - byebug (or pry)
+
 - run `bundle install`
 - a Gemfile.lock gets creating locking the versions number of the gems that have been intalled
 
