@@ -43,3 +43,9 @@ end
 - Create a model
 - Creqte relationship
 - require the model
+
+-Create tags table
+
+- create join table :artist, :tags, force: true do
+- has_and_belongs_to_many
+- Create tags
