@@ -35,3 +35,6 @@ end
 - do some AR commands on artists
 
 - Create albums table
+- Create a model for album
+- Create the relationships
+- Require the model
