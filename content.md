@@ -53,10 +53,6 @@ Benefits:
 - run `bundle install`
 - a Gemfile.lock gets creating locking the versions number of the gems that have been intalled
 
-Create setup.rb
+## Creating the database
 
-create schema
-
-create objects in tables
-
-explain
+[iTune Music Library](./pictures/schema.png)
